@@ -3,9 +3,9 @@ var audio = new Audio();
 
 // Array of music URLs
 var musicList = [
-  "music1.mp3",
-  "music2.mp3",
-  "music3.mp3"
+  "LoveLikeThisRemix.mp3",
+  "YouAndThat.mp3",
+  "PumpUpTheJam.mp3"
 ];
 
 // Function to play random music
